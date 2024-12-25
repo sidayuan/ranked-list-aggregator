@@ -1,0 +1,29 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20;
+}
+
+th, td {
+    padding-left: 10px;
+}
+
+#input {
+    padding: 20px;
+    text-align: left;
+}
+
+#output {
+    padding: 20px;
+    text-align: left;
+}
+
+#text-input,
+#csv-upload,
+#csv-instructions,
+#orientation,
+#aggregate-button,
+#download-button {
+    display: none;
+}
