@@ -19,11 +19,9 @@ th, td {
     text-align: left;
 }
 
-#text-input,
 #csv-upload,
 #csv-instructions,
 #orientation,
-#aggregate-button,
 #download-button {
     display: none;
 }
